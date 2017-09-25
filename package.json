@@ -1,0 +1,19 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanzander/FriendFinder.git"
+  },
+  "author": "Ethan Zander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanzander/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/ethanzander/FriendFinder#readme"
+}
