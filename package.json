@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ethanzander/FriendFinder/issues"
   },
-  "homepage": "https://github.com/ethanzander/FriendFinder#readme"
+  "homepage": "https://github.com/ethanzander/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  }
 }
